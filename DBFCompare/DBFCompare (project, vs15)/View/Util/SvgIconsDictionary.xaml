@@ -1,0 +1,20 @@
+﻿<!-- Dictionary of resource vector icons of the application (mainly for buttons) -->
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+					xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+	<!-- https://materialdesignicons.com/ -->
+
+	<Path x:Key="SwapSvgIcon"
+	      x:Shared="False"
+	      Stretch="Uniform"
+	      Data="M8,10V13H14V18H8V21L2,15.5L8,10M22,8.5L16,3V6H10V11H16V14L22,8.5Z"
+	      Fill="Black"
+	      Stroke="GreenYellow"/>
+
+	<Path x:Key="CompareSvgIcon"
+	      x:Shared="False"
+	      Stretch="Uniform"
+	      Data="M10,18H6V16H10V18M10,14H6V12H10V14M10,1V2H6C4.89,2 4,2.89 4,4V20A2,2 0 0,0 6,22H10V23H12V1H10M20,8V20C20,21.11 19.11,22 18,22H14V20H18V11H14V9H18.5L14,4.5V2L20,8M16,14H14V12H16V14M16,18H14V16H16V18Z"
+	      Fill="Black"
+	      Stroke="#45A1FF"/>
+</ResourceDictionary>

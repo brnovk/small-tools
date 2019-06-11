@@ -1,0 +1,8 @@
+
+# VS15 - files/catalogs of project #
+[Dd]ebug/
+[Rr]elease/
+*.suo
+*.sdf
+*.opensdf
+*.user

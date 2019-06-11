@@ -1,0 +1,19 @@
+﻿<!-- Dictionary of resource vector icons of the application (mainly for buttons) -->
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+					xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+	<!-- https://materialdesignicons.com/ -->
+	<Path x:Key="FindSvgIcon"
+	      x:Shared="False"
+	      Stretch="Uniform"
+	      Data="M9,13A3,3 0 0,0 12,16A3,3 0 0,0 15,13A3,3 0 0,0 12,10A3,3 0 0,0 9,13M20,19.59V8L14,2H6A2,2 0 0,0 4,4V20A2,2 0 0,0 6,22H18C18.45,22 18.85,21.85 19.19,21.6L14.76,17.17C13.96,17.69 13,18 12,18A5,5 0 0,1 7,13A5,5 0 0,1 12,8A5,5 0 0,1 17,13C17,14 16.69,14.96 16.17,15.75L20,19.59Z"
+	      Fill="Black"
+	      Stroke="GreenYellow"/>
+
+	<Path x:Key="ExportSvgIcon"
+	      x:Shared="False"
+	      Stretch="Uniform"
+	      Data="M6,2C4.89,2 4,2.9 4,4V20A2,2 0 0,0 6,22H18A2,2 0 0,0 20,20V8L14,2M13,3.5L18.5,9H13M8.93,12.22H16V19.29L13.88,17.17L11.05,20L8.22,17.17L11.05,14.35"
+	      Fill="#005c99"
+	      Stroke="#ffefd5"/>
+</ResourceDictionary>
